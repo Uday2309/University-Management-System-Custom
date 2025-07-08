@@ -1,2 +1,32 @@
-# University-Management-System-Custom
-A Java Swing + MySQL based University Management System with Club &amp; Event Module
+# 🎓 University Management System - Custom Version
+
+A Java Swing + MySQL-based project for managing university clubs and events.
+
+## 📌 Features
+
+- ✅ Add and view Clubs (with faculty-in-charge)
+- ✅ Add and manage Events under clubs
+- ✅ GUI built using Java Swing
+- ✅ MySQL integration using JDBC
+- ✅ Organized folder structure (src/, lib/, sql/)
+- ✅ Ready for future web-based upgrade
+
+## 🖼️ Interface Preview
+
+> ✅ Club Form  
+![Club Form Screenshot](images/club_form.png)
+
+> ✅ Event Form  
+![Event Form Screenshot](images/event_form.png)
+
+*(You can capture screenshots and save them inside a folder named `images/` in your project)*
+
+## 🔧 Technologies Used
+
+- Java (Swing)
+- MySQL
+- JDBC
+- Git & GitHub
+
+## 🗃️ Folder Structure
+
