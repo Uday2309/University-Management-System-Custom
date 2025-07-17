@@ -14,12 +14,10 @@ A Java Swing + MySQL-based project for managing university clubs and events.
 ## 🖼️ Interface Preview
 
 > ✅ Club Form  
-![Club Form Screenshot](images/club_form.png)
 
 > ✅ Event Form  
-![Event Form Screenshot](images/event_form.png)
 
-*(You can capture screenshots and save them inside a folder named `images/` in your project)*
+*
 
 ## 🔧 Technologies Used
 
